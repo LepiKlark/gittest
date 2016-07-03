@@ -15,6 +15,8 @@ namespace gittest
             Console.WriteLine("I am now in my new branch, I am going to check in this");
 
             Console.WriteLine("This is second change in my child branch.");
+
+            Console.WriteLine("this is now a change in child branch.");
         }
     }
 }
