@@ -19,6 +19,8 @@ namespace gittest
             Console.WriteLine("this is now a change in child branch.");
 
             Console.WriteLine("This is change in main branch");
+
+            Console.WriteLine("I am adding even more changes");
         }
     }
 }
